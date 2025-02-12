@@ -2,7 +2,7 @@
   
   # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Zana
   <ul>
-    Currently pursuing my B.sc. CS degree (5th semester) at <a href="https://www.uni-rostock.de/en/">University of Rostock</a>
+    Currently pursuing my B.Sc. CS degree (5th semester) at <a href="https://www.uni-rostock.de/en/">University of Rostock</a>
   </ul>
 
   <a href="https://www.linkedin.com/in/zana-salih-hama/">
