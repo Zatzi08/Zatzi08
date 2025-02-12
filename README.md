@@ -32,10 +32,20 @@
 </div>
 
 ## 🔥 Stats
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&preferLogin=false">    
-  <img  alt="Zatzi08's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Zatzi08?cardType=level&theme=dark&preferLogin=false" />  
-</a>
-<a href="https://git.io/streak-stats">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Zatzi08&theme=dark&border_radius=4.4&mode=weekly&card_width=450&card_height=200" alt="GitHub Streak" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&preferLogin=false">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Zatzi08?cardType=level&theme=dark&preferLogin=false" alt="Zatzi08's GitHub Stats"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Zatzi08&theme=dark&border_radius=4.4&mode=weekly&card_width=450&card_height=200" alt="GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
   
